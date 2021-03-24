@@ -4,9 +4,9 @@ import React from 'react'
 export default function Footer(){
     return(
         <div>
-            <button></button>
-            <button></button>
-            <button></button>
+            <button> Linkdedin </button>
+            <button> Github </button>
+            <button> Portfolio </button>
         </div>
     )
 }
